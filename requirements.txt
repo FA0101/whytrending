@@ -10,6 +10,6 @@ scikit-learn==1.4.1.post1
 tweepy==4.14.0
 praw==7.7.1
 facebook-sdk==3.1.0
-tiktokapipy==0.2.5
+tiktokapipy>=0.2.4,<0.3.0
 hdbscan==0.8.36
 streamlit==1.36.0
